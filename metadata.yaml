@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '25956'
     url: http://www.gutenberg.org/2009/agents/25956
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45652#Jack-Ballington-Forester
 gutenberg_issued: '2014-05-23'
 gutenberg_type: Text
 identifiers:
